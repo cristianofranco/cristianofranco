@@ -1,7 +1,7 @@
 ## Hello, I'm Cristiano Franco 👋👨‍💻
 
 - 🔭 Working as Front-end Developer
-- 🌱 Learning Next.js and TypeScript
+- 🌱 Currently studying Vue.js
 
 
 <div style="display: inline_block"><br>
